@@ -2,7 +2,7 @@
 
 **1. Method Chosen: Random Forest Regression**
 
-- **Random Forest Regressor** is an ensemble algorithm that builds multiple decision trees on randomly sampled data and feature subsets[1][3]. 
+- **Random Forest Regressor** is an ensemble algorithm that builds multiple decision trees on randomly sampled data and feature subsets. 
 - Each tree predicts a numerical output; the final prediction is the average of all trees’ predictions.
 - This method is robust against overfitting, handles non-linear relationships, and can naturally quantify feature importance.
 
@@ -70,7 +70,7 @@ code executing command :  python score_wallet.py user-wallet-transactions.json
 
 **4. Why Random Forest?**
 
-- **Handles heterogeneous and non-linear features** without strong parametric assumptions[1][3][9].
+- **Handles heterogeneous and non-linear features** without strong parametric assumptions.
 - **Resistant to overfitting** due to ensemble averaging.
 - **Explains feature contributions**: can reveal which wallet behaviors most influence credit scores.
 - **Robust to noisy, missing, and correlated data**—common in financial and blockchain transaction logs.
