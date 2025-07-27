@@ -65,7 +65,7 @@ Below is a structured outline of the algorithm, mapped directly to the code step
     - Export individual wallet scores to CSV.
 ```
 
-code executting command :  python score_wallet.py user-wallet-transactions.json
+code executing command :  python score_wallet.py user-wallet-transactions.json
 
 
 **4. Why Random Forest?**
