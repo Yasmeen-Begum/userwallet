@@ -1,4 +1,3 @@
-The provided **code implements a machine learning pipeline for calculating and analyzing wallet “credit scores”** using structured blockchain wallet data. The chosen method is a **Random Forest Regressor**, a non-linear ensemble model well-suited for numerical prediction tasks with tabular, feature-engineered data[1][3][7][9].
 
 **1. Method Chosen: Random Forest Regression**
 
@@ -105,14 +104,23 @@ For real deployment, one would:
 - Random Forest details and regression usage.
 
 [1] https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning/
+
 [2] https://huggingface.co/datasets/CarperAI/pile-v2-local-dedup-small/viewer
+
 [3] https://www.geeksforgeeks.org/random-forest-regression-in-python/
+
 [4] https://www.datacamp.com/tutorial/random-forests-classifier-python
+
 [5] https://builtin.com/data-science/random-forest-python
+
 [6] https://travishorn.com/real-time-delivery-eta-prediction-in-python
+
 [7] https://en.wikipedia.org/wiki/Random_forest
+
 [8] https://stackoverflow.com/questions/46113732/modulenotfounderror-no-module-named-sklearn
+
 [9] https://www.ibm.com/think/topics/random-forest
+
 [10] https://www.geeksforgeeks.org/python/pandas-time-series-manipulation/
 
 
