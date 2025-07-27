@@ -1,4 +1,5 @@
 
+
 **1. Method Chosen: Random Forest Regression**
 
 - **Random Forest Regressor** is an ensemble algorithm that builds multiple decision trees on randomly sampled data and feature subsets[1][3]. 
@@ -63,6 +64,9 @@ Below is a structured outline of the algorithm, mapped directly to the code step
     - Save a bar chart showing how many wallets fall into each bin.
     - Export individual wallet scores to CSV.
 ```
+
+code executting command :  python score_wallet.py user-wallet-transactions.json
+
 
 **4. Why Random Forest?**
 
